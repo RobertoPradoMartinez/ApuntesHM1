@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Coñecendo a Historia da Música (I)"
+  title: "Historia da Música (I)"
   navbar:
     right:
       - text: "Sobre o autor"
