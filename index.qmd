@@ -1,5 +1,5 @@
 ---
-title: "ApuntesHM1"
+title: "Historia da música 4º"
 listing:
   contents: posts
   sort: "date desc"
