@@ -1,5 +1,5 @@
 ---
-title: "Descubrindo a Historia da Música: Parte 1"
+title: "Descubrindo a Historia da Música - Parte I"
 listing:
   contents: posts
   sort: "date desc"
