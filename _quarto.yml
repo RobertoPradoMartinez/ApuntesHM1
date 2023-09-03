@@ -2,14 +2,16 @@ project:
   type: website
 
 website:
-  title: "Historia da Música 4º"
+  title: "Coñecendo a Historia da Música (I)"
   navbar:
     right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - text: "Sobre o autor"
+        href: about.qmd
+
+    left: 
+      - text: "Docencia"
+        href: docencia.qmd
+        
 format:
   html:
     theme: cosmo
